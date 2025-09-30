@@ -1,0 +1,10 @@
+.venv
+*.pyc
+frontend/interview/node_modules
+frontend/interview/build
+.DS_Store
+.env
+.next
+backend/__pycache__
+backend/.env
+backend/app/services/service_account.json
