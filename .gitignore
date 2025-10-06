@@ -1,0 +1,8 @@
+.venv
+*.pyc
+.DS_Store
+.env
+.next
+backend/__pycache__
+backend/.env
+backend/app/services/service_account.json
